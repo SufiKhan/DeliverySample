@@ -1,3 +1,6 @@
+IMPORTANT: The reason for adding third party framework is that my personal MacBook screen is damaged. Hence I used my work machine which has restriction for dependency managers like pods ,Carthage etc.
+
+
 # Delivery Sample for iOS
 
 ## OS Supported: 12 & 13
