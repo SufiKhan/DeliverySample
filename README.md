@@ -7,8 +7,8 @@
 
 ## Covered
 - MVVM 
+- Core Data
 - Dependency Injection
-- CoreData
 - FetchResultController 
 - Unit Test for List and Detail View Controllers
 - No Storyboard or XIB used
